@@ -1,0 +1,4 @@
+SQLAlchemy
+PostgreSQL-Audit
+flask
+flask_login
